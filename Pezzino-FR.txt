@@ -1,0 +1,5 @@
+1. The system shall provide the compiling of a questionnaire to offer meeting points suitable for the users’ needs, to this end the answers are multiple-choice or open and the questions have the scope to capture: area of interest, type of meeting, type of vehicle available, number of people, budget, time slot.
+
+2. The system shall provide a share mode of the meeting point’s location that user select at the end of the questionnaire into the group they chooses.
+
+3. The system shall provide a saving mode of meeting points, reserved to the groups’ owners, into the location maps of their groups.
