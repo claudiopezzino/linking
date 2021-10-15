@@ -1,0 +1,5 @@
+1. As a group member, I want to fill-in a questionnaire with open and/or closed questions, so that I can decide on a meeting point according to my needs.
+
+2. As a group member, I want to share meeting points into groups I belong to, so that I can suggest reunions to the members.
+
+3. As a group owner, I want to save meeting points into the location maps of my groups, so that I can realize a reminder for reunions.
